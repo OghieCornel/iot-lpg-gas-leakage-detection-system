@@ -78,7 +78,7 @@ OLED displays:
 * PPM values are displayed.
 * Alerts are suppressed.
 * Buzzer remains OFF.
-<img width="498" height="1080" alt="iot lpg gas detection" src="https://github.com/user-attachments/assets/fd4f4126-2ff8-4096-9534-4fe0aef072e0" />
+<img width="249" height="540" alt="iot lpg gas detection" src="https://github.com/user-attachments/assets/fd4f4126-2ff8-4096-9534-4fe0aef072e0" />
 
 ---
 
