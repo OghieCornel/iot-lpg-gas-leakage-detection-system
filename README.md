@@ -22,9 +22,8 @@ The device operates as a standalone safety system suitable for homes, kitchens, 
 
 ## System Architecture
 
-### Standalone Operation
+<img width="400" height="270" alt="Gas Leak Detection (LPG   Butane Gas) (1)_page-0001" src="https://github.com/user-attachments/assets/7847845c-9b15-4f69-a00f-83b7e1023f20" />
 
-MQ6 Gas Sensor → ESP8266 (Wemos D1 Mini) → OLED Display + Buzzer
 
 
 ---
@@ -79,6 +78,7 @@ OLED displays:
 * PPM values are displayed.
 * Alerts are suppressed.
 * Buzzer remains OFF.
+<img width="498" height="1080" alt="iot lpg gas detection" src="https://github.com/user-attachments/assets/fd4f4126-2ff8-4096-9534-4fe0aef072e0" />
 
 ---
 
