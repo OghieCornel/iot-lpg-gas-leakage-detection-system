@@ -1,0 +1,12 @@
+config.h
+.env
+
+.vscode/
+.idea/
+.DS_Store
+node_modules/
+
+*.o
+*.bin
+*.elf
+build/

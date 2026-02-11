@@ -1,0 +1,9 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define BLYNK_AUTH_TOKEN "your_blynk_auth_token_here"
+#define BLYNK_TEMPLATE_ID "your_template_id_here"
+#define BLYNK_TEMPLATE_NAME "your_template_name_here"
+#define IFTTT_KEY "your_ifttt_key_here"
+
+#endif
