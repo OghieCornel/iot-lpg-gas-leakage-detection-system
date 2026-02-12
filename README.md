@@ -81,10 +81,7 @@ OLED displays:
 * PPM values are displayed.
 * Alerts are suppressed.
 * Buzzer remains OFF.
-<img width="249" height="540" alt="iot lpg gas detection" src="https://github.com/user-attachments/assets/fd4f4126-2ff8-4096-9534-4fe0aef072e0" />
-<img width="325" height="250" alt="Screenshot 2025-05-16 193255" src="https://github.com/user-attachments/assets/d8d34021-b9ab-4ec0-97ef-5f939face8a5" />
 
-<img width="325" height="250" alt="Screenshot 2025-05-16 193414" src="https://github.com/user-attachments/assets/95629081-f284-46fb-87c0-1c6512a28850" />
 ---
 
 ## Gas Detection Levels
@@ -96,6 +93,10 @@ OLED displays:
 | 1000–1999 | High Concentration | Beep Once  | "Warning! Gas High" |
 | ≥2000     | Danger             | Continuous | "DANGER! Gas Leak!" |
 
+<img width="249" height="540" alt="iot lpg gas detection" src="https://github.com/user-attachments/assets/fd4f4126-2ff8-4096-9534-4fe0aef072e0" />
+<img width="325" height="250" alt="Screenshot 2025-05-16 193255" src="https://github.com/user-attachments/assets/d8d34021-b9ab-4ec0-97ef-5f939face8a5" />
+
+<img width="325" height="250" alt="Screenshot 2025-05-16 193414" src="https://github.com/user-attachments/assets/95629081-f284-46fb-87c0-1c6512a28850" />
 
 ---
 
