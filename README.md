@@ -24,7 +24,9 @@ The device operates as a standalone safety system suitable for homes, kitchens, 
 
 <img width="400" height="270" alt="Gas Leak Detection (LPG   Butane Gas) (1)_page-0001" src="https://github.com/user-attachments/assets/7847845c-9b15-4f69-a00f-83b7e1023f20" />
 
+<img width="325" height="250" alt="Screenshot 2025-05-16 193255" src="https://github.com/user-attachments/assets/d8d34021-b9ab-4ec0-97ef-5f939face8a5" />
 
+<img width="325" height="250" alt="Screenshot 2025-05-16 193414" src="https://github.com/user-attachments/assets/95629081-f284-46fb-87c0-1c6512a28850" />
 
 ---
 
@@ -73,6 +75,9 @@ OLED displays:
 * "Warming up…"
 
 ### Sensor Warm-Up (1 Minute)
+
+<img width="444" height="773" alt="reallpgiot4" src="https://github.com/user-attachments/assets/f95a55e9-976d-4e60-8a8b-b9bad49f69d1" />
+
 
 * Sensor stabilizes for accurate readings.
 * PPM values are displayed.
